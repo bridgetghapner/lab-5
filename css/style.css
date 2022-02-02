@@ -8,7 +8,7 @@ h1 {
 h2 {
 	font-family: 'Poppins', sans-serif;
 	font-weight: 900;
-	font-size: 1em;
+	font-size: 2em;
 	color: midnightblue;
 }
 
@@ -36,6 +36,7 @@ header {
 	padding: 8px;
 	margin: 12px;
 	background-color: antiquewhite;
+	border-radius: 30px;
 }
 
 .planet-title {
