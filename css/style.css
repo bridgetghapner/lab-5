@@ -1,3 +1,12 @@
 h1 {
 	font-family: 'Poppins', sans-serif;
 }
+
+p {
+	font-family: 'Poppins', sans-serif;
+}
+
+table {
+	1px solid red;
+	font-family: 'Poppins', sans-serif;
+}
