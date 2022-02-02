@@ -31,6 +31,8 @@ header {
 
 .planet-image {
 	border: 1px solid midnightblue;
+	padding: 8px;
+	margin: 12px;
 }
 
 .planet-title {
