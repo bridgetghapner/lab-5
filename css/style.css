@@ -2,26 +2,26 @@ h1 {
 	font-family: 'Poppins', sans-serif;
 	font-weight: 900;
 	font-size: 4em;
-	color: rebeccapurple;
+	color: midnightblue;
 }
 
 h2 {
 	font-family: 'Poppins', sans-serif;
 	font-weight: 400;
 	font-size: 2em;
-	color: rebeccapurple;
+	color: midnightblue;
 }
 
 p {
 	font-family: 'Poppins', sans-serif;
 	font-weight: 400;
 	font-size: 1em;
-	color: rebeccapurple;
+	color: midnightblue;
 
 }
 
 header {
-	background-color: peachpuff;
+	background-color: powderblue;
 	padding-bottom: 40px;
 	padding-top: 60px;
 	border-bottom: 1px solid slateblue;
@@ -30,12 +30,12 @@ header {
 }
 
 .planet-image {
-	border: 1px solid slateblue;
+	border: 1px solid midnightblue;
 }
 
 .planet-title {
 	font-size: 1.5em;
-	color: rebeccapurple;
+	color: midnightblue;
 	text-align: center;
 }
 
@@ -53,17 +53,17 @@ th {
 	text-align: left;
 	padding: 15px;
 	font-weight: 900;
-	border: 1px solid palevioletred;
+	border: 1px solid dodgerblue;
 }
 
 td {
 	padding: 15px;
 	text-align: center;
-	border: 1px solid palevioletred;
+	border: 1px solid dodgerblue;
 }
 
 footer {
-	background-color: peachpuff;
+	background-color: powderblue;
 	padding-top: 60px;
 	padding-bottom: 60px;
 	border-top: 1px solid slateblue;
