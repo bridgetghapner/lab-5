@@ -7,6 +7,10 @@ p {
 }
 
 table {
-	1px solid red;
+	1px solid #001933;
 	font-family: 'Poppins', sans-serif;
+}
+
+th {
+	text-align: left;
 }
