@@ -18,6 +18,10 @@ header {
 	margin-bottom: 25px;
 }
 
+#planet-image {
+	border: 1px solid white;
+}
+
 table {
 	font-family: 'Poppins', sans-serif;
 	align: center;
