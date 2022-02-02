@@ -8,17 +8,19 @@ p {
 }
 
 table {
-	border: 1px solid #001933;
+	border: 1px solid palevioletred;
 	font-family: 'Poppins', sans-serif;
+	margin-left: 25px;
 }
 
 th {
 	border: 1px solid #001933;
 	text-align: left;
-	padding: 10px;
+	padding: 25px;
+	font-weight: 400;
 }
 
 td {
 	border: 1px solid #001933;
-	padding: 10px;
+	padding: 25px;
 }
