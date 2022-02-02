@@ -21,11 +21,11 @@ header {
 
 #planet-image {
 	border: 1px solid slateblue;
+	width: 300px;
 }
 
 table {
 	font-family: 'Poppins', sans-serif;
-	align: center;
 	border: 1px solid palevioletred;
 }
 
