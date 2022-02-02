@@ -12,14 +12,15 @@ p {
 
 header {
 	background-color: peachpuff;
-	padding-bottom: 40px;
+	padding-bottom: 60px;
+	padding-top: 100px;
 	border-bottom: 1px solid slateblue;
 	text-align:  center;
-	margin-bottom: 25px;
+	margin-bottom: 50px;
 }
 
 #planet-image {
-	border: 1px solid white;
+	border: 1px solid slateblue;
 }
 
 table {
@@ -43,6 +44,7 @@ td {
 
 footer {
 	background-color: peachpuff;
+	padding-top: 60px;
 	padding-bottom: 60px;
 	border-top: 1px solid slateblue;
 	text-align:  center;
