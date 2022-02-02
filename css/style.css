@@ -25,6 +25,12 @@ header {
 	border: 1px solid slateblue;
 }
 
+.planet-title {
+	font-size: 1.5em;
+	color: rebeccapurple;
+	text-align: center;
+}
+
 main {
 	align-content: center;
 }
