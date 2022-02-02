@@ -7,7 +7,7 @@ p {
 }
 
 table {
-	1px solid #001933;
+	border:  1px solid #001933;
 	font-family: 'Poppins', sans-serif;
 }
 
