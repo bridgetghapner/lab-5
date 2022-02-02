@@ -13,7 +13,7 @@ p {
 header {
 	background-color: peachpuff;
 	padding-bottom: 40px;
-	padding-top: 80px;
+	padding-top: 60px;
 	border-bottom: 1px solid slateblue;
 	text-align:  center;
 	margin-bottom: 50px;
@@ -21,6 +21,10 @@ header {
 
 #planet-image {
 	border: 1px solid slateblue;
+}
+
+main {
+	align-content: center;
 }
 
 table {
