@@ -8,20 +8,25 @@ p {
 	font-family: 'Poppins', sans-serif;
 }
 
+header {
+	margin-left:  25px;
+}
+
 table {
 	font-family: 'Poppins', sans-serif;
-	margin-left: 25px;
+	margin-left: 15px;
+	border: 1px solid palevioletred;
 }
 
 th {
 	border: 1px solid palevioletred;
 	text-align: left;
-	padding: 25px;
+	padding: 15px;
 	font-weight: 400;
 }
 
 td {
 	border: 1px solid palevioletred;
-	padding: 25px;
+	padding: 15px;
 	text-align: center;
 }
