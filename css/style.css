@@ -51,6 +51,11 @@ main {
 	background-color: antiquewhite;
 }
 
+caption {
+	padding=bottom: 15px;
+	text-align:  left;
+}
+
 table {
 	font-family: 'Poppins', sans-serif;
 	border: 1px solid dodgerblue;
