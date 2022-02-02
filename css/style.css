@@ -10,7 +10,6 @@ h2 {
 	font-weight: 900;
 	font-size: 1em;
 	color: midnightblue;
-	background-color: antiquewhite;
 }
 
 p {
@@ -34,6 +33,7 @@ header {
 	border: 1px solid midnightblue;
 	padding: 8px;
 	margin: 12px;
+	background-color: antiquewhite;
 }
 
 .planet-title {
