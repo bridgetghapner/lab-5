@@ -2,6 +2,7 @@ h1 {
 	font-family: 'Poppins', sans-serif;
 	font-weight: 900;
 	font-size: 3em;
+	color: rebeccapurple;
 }
 
 p {
@@ -9,7 +10,7 @@ p {
 }
 
 header {
-	margin-left:  25px;
+	margin-left: 25px;
 }
 
 table {
@@ -22,7 +23,7 @@ th {
 	border: 1px solid palevioletred;
 	text-align: left;
 	padding: 15px;
-	font-weight: 400;
+	font-weight: 900;
 }
 
 td {
