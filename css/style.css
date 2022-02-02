@@ -7,10 +7,17 @@ p {
 }
 
 table {
-	border:  1px solid #001933;
+	border: 1px solid #001933;
 	font-family: 'Poppins', sans-serif;
 }
 
 th {
+	border: 1px solid #001933;
 	text-align: left;
+	padding: 10px;
+}
+
+td {
+	border: 1px solid #001933;
+	padding: 10px;
 }
