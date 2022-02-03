@@ -15,6 +15,7 @@ h2 {
 .button {
 	font-family: 'Poppins', sans-serif;
 	font-weight: 400;
+	font-size: 2em;
 	border: 1px solid midnightblue;
 	border-radius: 10px;
 	background-color: antiquewhite;
@@ -35,7 +36,7 @@ header {
 	background-color: powderblue;
 	padding-bottom: 40px;
 	padding-top: 60px;
-	border-bottom: 1px solid slateblue;
+	border-bottom: 10px solid slateblue;
 	text-align:  center;
 	margin-left: 0px;
 	margin-left: 0px;
@@ -90,7 +91,7 @@ footer {
 	background-color: powderblue;
 	padding-top: 60px;
 	padding-bottom: 60px;
-	border-top: 1px solid slateblue;
+	border-top: 10px solid slateblue;
 	text-align:  center;
 	margin-left: 0px;
 	margin-right: 0px;
