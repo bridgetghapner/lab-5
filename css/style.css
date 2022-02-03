@@ -75,7 +75,7 @@ table {
 }
 
 th {
-	text-align: left;
+	text-align: center;
 	padding: 15px;
 	font-weight: 900;
 	border: 1px solid dodgerblue;
@@ -83,7 +83,7 @@ th {
 
 td {
 	padding: 15px;
-	text-align: center;
+	text-align: left;
 	border: 1px solid dodgerblue;
 }
 
