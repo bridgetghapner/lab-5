@@ -53,7 +53,7 @@ header {
 .title {
 	font-size: 1.5em;
 	color: midnightblue;
-	text-align: center;
+	text-align: left;
 }
 
 .planets-title {
@@ -76,12 +76,11 @@ caption {
 
 table {
 	font-family: 'Poppins', sans-serif;
-	border: 1px solid dodgerblue;
 	border-collapse: collapse;
 }
 
 th {
-	text-align: center;
+	text-align: left;
 	padding: 15px;
 	font-weight: 900;
 	border: 1px solid dodgerblue;
