@@ -51,8 +51,12 @@ header {
 	border-radius: 30px;
 }
 
-#images {
-	width: 100%;
+.image-grid {
+	display:  flex;
+}
+
+.col {
+	flex: 1;
 }
 
 .title {
