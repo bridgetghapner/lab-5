@@ -70,6 +70,7 @@ caption {
 table {
 	font-family: 'Poppins', sans-serif;
 	border: 1px solid dodgerblue;
+	border-collapse: collapse;
 }
 
 th {
