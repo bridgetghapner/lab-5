@@ -15,7 +15,7 @@ h2 {
 .button {
 	font-family: 'Poppins', sans-serif;
 	font-weight: 400;
-	font-size: 2em;
+	font-size:  1.5em;
 	border: 1px solid midnightblue;
 	border-radius: 10px;
 	background-color: antiquewhite;
@@ -53,6 +53,12 @@ header {
 .title {
 	font-size: 1.5em;
 	color: midnightblue;
+	text-align: center;
+}
+
+.planets-title {
+	font-size: 1.5em;
+	color: darkcyan;
 	text-align: center;
 }
 
