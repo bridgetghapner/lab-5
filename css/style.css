@@ -75,8 +75,15 @@ main {
 }
 
 caption {
-	padding=bottom: 15px;
+	padding-bottom: 15px;
 	text-align:  left;
+}
+
+figcaption {
+	font-family: 'Poppins', sans-serif;
+	font-weight: 400;
+	font-size: 1em;
+	color: midnightblue;
 }
 
 table {
