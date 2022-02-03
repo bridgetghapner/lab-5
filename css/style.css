@@ -51,6 +51,10 @@ header {
 	border-radius: 30px;
 }
 
+#images {
+	width: 100%;
+}
+
 .title {
 	font-size: 1.5em;
 	color: midnightblue;
