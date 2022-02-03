@@ -74,7 +74,7 @@ main {
 	background-color: antiquewhite;
 }
 
-figcaption {
+.caption {
 	font-family: 'Poppins', sans-serif;
 	font-weight: 400;
 	font-size: 1em;
