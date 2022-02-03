@@ -93,6 +93,11 @@ td {
 	border: 1px solid dodgerblue;
 }
 
+.invisible-cell {
+	border-top: none;
+	border-left: none;
+}
+
 footer {
 	background-color: powderblue;
 	padding-top: 60px;
