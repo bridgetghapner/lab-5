@@ -94,13 +94,13 @@ th {
 	text-align: left;
 	padding: 15px;
 	font-weight: 900;
-	border: 1px solid dodgerblue;
+	border: 1px solid midnightblue;
 }
 
 td {
 	padding: 15px;
 	text-align: left;
-	border: 1px solid dodgerblue;
+	border: 1px solid midnightblue;
 }
 
 .invisible-cell {
