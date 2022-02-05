@@ -54,6 +54,7 @@ header {
 .box {
 	display: flex;
 	flex-wrap: wrap;
+	width: 90%;
 }
 
 .col {
