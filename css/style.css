@@ -53,6 +53,7 @@ header {
 
 .image-grid {
 	display: flex;
+	flex-wrap: wrap;
 }
 
 .col {
@@ -110,8 +111,8 @@ td {
 
 footer {
 	background-color: powderblue;
-	padding-top: 60px;
-	padding-bottom: 60px;
+	padding-top: 80px;
+	padding-bottom: 80px;
 	border-top: 10px solid midnightblue;
 	text-align:  center;
 	margin-left: 0px;
