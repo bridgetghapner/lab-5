@@ -23,7 +23,6 @@ h2 {
 	padding:  10px;
 	width: 300px;
 	background-color: antiquewhite;
-	margin: auto;
 }
 
 p {
@@ -40,8 +39,7 @@ header {
 	padding-top: 60px;
 	border-bottom: 10px solid midnightblue;
 	text-align:  center;
-	margin-left: 0px;
-	margin-left: 0px;
+	margin: auto;
 }
 
 .planet-image {
@@ -112,6 +110,8 @@ td {
 
 .footer-image {
 	vertical-align:  center;
+	border: 1px solid midnightblue;
+	border-radius: 10px;
 }
 
 footer {
