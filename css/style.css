@@ -24,6 +24,7 @@ h2 {
 	width: 300px;
 	background-color: antiquewhite;
 	border-radius: 10px;
+	margin: auto;
 }
 
 p {
@@ -111,7 +112,10 @@ td {
 
 .footer-image {
 	vertical-align:  center;
-	border: 1px solid midnightblue;
+}
+
+.astro {
+	border: 1px dashed; midnightblue;
 	border-radius: 10px;
 }
 
