@@ -13,12 +13,14 @@ h2 {
 	margin-bottom: 50px;
 }
 
-.link {
+#jumplink {
 	font-family: 'Poppins', sans-serif;
 	font-weight: 400;
 	font-size:  1.2em;
 	margin-top:  25px;
 	margin-bottom: 50px;
+	border: 1px solid midnightblue;
+	padding:  10px;
 }
 
 p {
