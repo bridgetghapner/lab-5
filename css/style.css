@@ -21,6 +21,8 @@ h2 {
 	margin-bottom: 50px;
 	border: 1px solid midnightblue;
 	padding:  10px;
+	width: 300px;
+	background-color: antiquewhite;
 }
 
 p {
