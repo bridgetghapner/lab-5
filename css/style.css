@@ -16,13 +16,13 @@ h2 {
 #jumplink {
 	font-family: 'Poppins', sans-serif;
 	font-weight: 400;
-	font-size:  1.2em;
+	font-size: 1.2em;
 	border: 1px solid midnightblue;
-	padding:  10px;
-	width: 300px;
+	padding: 15px;
+	width: 250px;
 	background-color: antiquewhite;
 	border-radius: 10px;
-	margin-left:  auto;
+	margin-left: auto;
 	margin-right: auto;
 	margin-bottom: 50px;
 }
