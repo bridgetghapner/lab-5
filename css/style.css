@@ -73,9 +73,9 @@ header {
 .planet-image {
 	border: 1px solid midnightblue;
 	padding: 8px;
-	margin: 12px;
+	margin: 8px;
 	background-color: antiquewhite;
-	border-radius: 30px;
+	border-radius: 80px;
 }
 
 .box {
