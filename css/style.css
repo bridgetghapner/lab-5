@@ -1,117 +1,117 @@
 body {
-	margin: 0;
-	padding: 0;
+  margin: 0;
+  padding: 0;
 }
 
 h1 {
-	font-family: 'Poppins', sans-serif;
-	font-weight: 900;
-	font-size: 4em;
-	color: midnightblue;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 900;
+  font-size: 4em;
+  color: midnightblue;
 }
 
 h2 {
-	font-family: 'Poppins', sans-serif;
-	font-weight: 900;
-	font-size: 2em;
-	color: midnightblue;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 900;
+  font-size: 2em;
+  color: midnightblue;
 }
 
 
 p {
-	font-family: 'Poppins', sans-serif;
-	font-weight: 400;
-	font-size: 1em;
-	color: midnightblue;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+  font-size: 1em;
+  color: midnightblue;
 
 }
 
 header {
-	background-color: powderblue;
-	padding: 60px 0px 40px 0px;
-	border-bottom: 10px solid midnightblue;
-	text-align: center;
-	margin: auto;
+  background-color: powderblue;
+  padding: 60px 0px 40px 0px;
+  border-bottom: 10px solid midnightblue;
+  text-align: center;
+  margin: auto;
 }
 
 .planet-image {
-	border: 1px solid midnightblue;
-	padding: 8px;
-	margin: 8px;
-	background-color: antiquewhite;
-	border-radius: 80px;
+  border: 1px solid midnightblue;
+  padding: 8px;
+  margin: 8px;
+  background-color: antiquewhite;
+  border-radius: 80px;
 }
 
 .box {
-	display: flex;
-	flex-wrap: wrap;
+  display: flex;
+  flex-wrap: wrap;
 }
 
 .col {
-	flex: 1;
+  flex: 1;
 }
 
 .title {
-	font-size: 1.5em;
-	color: midnightblue;
-	text-align: left;
+  font-size: 1.5em;
+  color: midnightblue;
+  text-align: left;
 }
 
 .planets-title {
-	font-size: 1.5em;
-	color: darkcyan;
-	text-align: center;
+  font-size: 1.5em;
+  color: darkcyan;
+  text-align: center;
 }
 
 main {
-	padding: 150px;
-	margin-left: auto;
-	margin-right: auto;
-	background-color: antiquewhite;
+  padding: 150px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: antiquewhite;
 }
 
 .caption {
-	font-family: 'Poppins', sans-serif;
-	font-weight: 400;
-	font-size: 1em;
-	color: midnightblue;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+  font-size: 1em;
+  color: midnightblue;
 }
 
 table {
-	font-family: 'Poppins', sans-serif;
-	border-collapse: collapse;
+  font-family: 'Poppins', sans-serif;
+  border-collapse: collapse;
 }
 
 th {
-	text-align: left;
-	padding: 15px;
-	font-weight: 900;
-	border: 1px solid midnightblue;
+  text-align: left;
+  padding: 15px;
+  font-weight: 900;
+  border: 1px solid midnightblue;
 }
 
 td {
-	padding: 15px;
-	text-align: left;
-	border: 1px solid midnightblue;
+  padding: 15px;
+  text-align: left;
+  border: 1px solid midnightblue;
 }
 
 .invisible-cell {
-	border-top: none;
-	border-left: none;
+  border-top: none;
+  border-left: none;
 }
 
 .footer-image {
-	vertical-align:  center;
+  vertical-align:  center;
 }
 
 .astro {
-	border: 1px dashed midnightblue;
-	border-radius: 10px;
+  border: 1px dashed midnightblue;
+  border-radius: 10px;
 }
 
 footer {
-	background-color: powderblue;
-	padding: 100px 0px 100px 0px;
-	border-top: 10px solid midnightblue;
-	text-align:  center;
+  background-color: powderblue;
+  padding: 100px 0px 100px 0px;
+  border-top: 10px solid midnightblue;
+  text-align:  center;
 }
