@@ -1,110 +1,108 @@
 <!DOCTYPE html>
 <html lang="en">
-	<head>
-		<link rel="stylesheet" href="css/style.css">
-		<meta charset="UTF-8">
-		<link rel="preconnect" href="https://fonts.googleapis.com">
-		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-		<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;800;900&display=swap" rel="stylesheet">
-		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<title>Lab 5</title>
-	</head>
-	<body>
-		<header>
-			<h1>Fun Planet Facts</h1>
-			<h2>This table includes some super cool facts about four different planets.</h2>
-			<div class="box">
-				<figure class="col">
-					<img src="images/neptune.jpg" alt="the planet neptune" class="planet-image" height="200" width="200">
-					<figcaption class="caption">Neptune</figcaption>
-				</figure>
-				<figure class="col">
-					<img src="images/saturn.jpg" alt="the planet saturn" class="planet-image" height="200" width="200">
-					<figcaption class="caption">Saturn</figcaption>
-				</figure>
-				<figure class="col">
-					<img src="images/earth.jpg" alt="the planet earth" class="planet-image" height="200" width="200">
-					<figcaption class="caption">Earth</figcaption>
-				</figure>
-				<figure class="col">
-					<img src="images/mercury.jpg" alt="the planet mercury" class="planet-image" height="200" width="200">
-					<figcaption class="caption">Mercury</figcaption>
-				</figure>
-			</div>
-			<div>
-				<p id="jumplink"><a href="#facts">See the planet facts!</a></p>
-			</div>
-		</header>
-		<main>
-			<table id="facts">
-				<tr>
-					<td colspan="1" class="invisible-cell"></td>
-					<th colspan="4" class="planets-title">Planet Name</th>
-				</tr>
-				<tr>
-					<th class="planets-title">Data point</th>
-					<th class="title">Neptune</th>
-					<th class="title">Saturn</th>
-					<th class="title">Earth</th>
-					<th class="title">Mercury</th>
-				</tr>
-				<tr>
-					<th>Mass (kg)</th>
-					<td>1.02 x 10<sup>26</sup></td>
-					<td>5.69 x 10<sup>26</sup></td>
-					<td>5.98 x 10<sup>24</sup></td>
-					<td>3.3 x 10<sup>23</sup></td>
-				</tr>
-				<tr>
-					<th>Diameter (km)</th>
-					<td>49528</td>
-					<td>120660</td>
-					<td>12756</td>
-					<td>4879.4</td>
-				</tr>
-				<tr>
-					<th>Mean density (kg/m<sup>3</sup>)</th>
-					<td>1640</td>
-					<td>690</td>
-					<td>5520</td>
-					<td>5420</td>
-				</tr>
-				<tr>
-					<th>Escape velocity (m/s)</th>
-					<td>23300</td>
-					<td>35600</td>
-					<td>5520</td>
-					<td>4300</td>
-				</tr>
-				<tr>
-					<th>Average distance from Sun</th>
-					<td>30.07 AU (4,498,252,900 km)</td>
-					<td>9.537 AU (1,426,725,400 km)</td>
-					<td>1 AU (149,597,890 km)</td>
-					<td>0.387 AU (57,909,175 km)</td>
-				</tr>
-				<tr>
-					<th>Rotation period (length of day in Earth days)</th>
-					<td>0.67 (16.1 hours)</td>
-					<td>0.44 (10.2 Earth hours)</td>
-					<td>1 (23.93 hours)</td>
-					<td>58.65</td>
-				</tr>
-				<tr>
-					<th>Revolution period (length of year in Earth days)</th>
-					<td>60,190 (164.8 Earth years)</td>
-					<td>29.46</td>
-					<td>365.26</td>
-					<td>87.97</td>
-				</tr>
-			</table>
-		</main>
-		<footer>
-			<p>Planet facts brought to you by ITMD-361 in Spring 2022 and also NASA.</p>
-			<figure class="footer-image">
-				<img src="images/footer-image.gif" alt="an astronaut in outer space" class="astro-pic">
-				<figcaption class="caption">Go space!</figcaption>
-			</figure>
-		</footer>
-	</body>
-	</html>
+  <head>
+    <link rel="stylesheet" href="css/reset.css">
+    <link rel="stylesheet" href="css/style.css">
+    <meta charset="UTF-8">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;800;900&display=swap" rel="stylesheet">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Lab 5</title>
+  </head>
+  <body>
+    <header>
+      <h1>Fun Planet Facts</h1>
+      <h2>This table includes some super cool facts about four different planets.</h2>
+      <div class="box">
+        <figure class="col">
+          <img src="images/neptune.jpg" alt="the planet neptune" class="planet-image" height="200" width="200">
+          <figcaption class="caption">Neptune</figcaption>
+        </figure>
+        <figure class="col">
+          <img src="images/saturn.jpg" alt="the planet saturn" class="planet-image" height="200" width="200">
+          <figcaption class="caption">Saturn</figcaption>
+        </figure>
+        <figure class="col">
+          <img src="images/earth.jpg" alt="the planet earth" class="planet-image" height="200" width="200">
+          <figcaption class="caption">Earth</figcaption>
+        </figure>
+        <figure class="col">
+          <img src="images/mercury.jpg" alt="the planet mercury" class="planet-image" height="200" width="200">
+          <figcaption class="caption">Mercury</figcaption>
+        </figure>
+      </div>
+    </header>
+    <main>
+      <table>
+        <tr>
+          <td colspan="1" class="invisible-cell"></td>
+          <th colspan="4" class="planets-title">Planet Name</th>
+        </tr>
+        <tr>
+          <th class="planets-title">Data point</th>
+          <th class="title">Neptune</th>
+          <th class="title">Saturn</th>
+          <th class="title">Earth</th>
+          <th class="title">Mercury</th>
+        </tr>
+        <tr>
+          <th>Mass (kg)</th>
+          <td>1.02 x 10<sup>26</sup></td>
+          <td>5.69 x 10<sup>26</sup></td>
+          <td>5.98 x 10<sup>24</sup></td>
+          <td>3.3 x 10<sup>23</sup></td>
+        </tr>
+        <tr>
+          <th>Diameter (km)</th>
+          <td>49528</td>
+          <td>120660</td>
+          <td>12756</td>
+          <td>4879.4</td>
+        </tr>
+        <tr>
+          <th>Mean density (kg/m<sup>3</sup>)</th>
+          <td>1640</td>
+          <td>690</td>
+          <td>5520</td>
+          <td>5420</td>
+        </tr>
+        <tr>
+          <th>Escape velocity (m/s)</th>
+          <td>23300</td>
+          <td>35600</td>
+          <td>5520</td>
+          <td>4300</td>
+        </tr>
+        <tr>
+          <th>Average distance from Sun</th>
+          <td>30.07 AU (4,498,252,900 km)</td>
+          <td>9.537 AU (1,426,725,400 km)</td>
+          <td>1 AU (149,597,890 km)</td>
+          <td>0.387 AU (57,909,175 km)</td>
+        </tr>
+        <tr>
+          <th>Rotation period (length of day in Earth days)</th>
+          <td>0.67 (16.1 hours)</td>
+          <td>0.44 (10.2 Earth hours)</td>
+          <td>1 (23.93 hours)</td>
+          <td>58.65</td>
+        </tr>
+        <tr>
+          <th>Revolution period (length of year in Earth days)</th>
+          <td>60,190 (164.8 Earth years)</td>
+          <td>29.46</td>
+          <td>365.26</td>
+          <td>87.97</td>
+        </tr>
+      </table>
+    </main>
+    <footer>
+      <p>Planet facts brought to you by ITMD-361 in Spring 2022 and also NASA.</p>
+      <figure class="footer-image">
+        <img src="images/footer-image.gif" alt="an astronaut in outer space" class="astro-pic">
+        <figcaption class="caption">Go space!</figcaption>
+      </figure>
+    </footer>
+  </body>
+  </html>
